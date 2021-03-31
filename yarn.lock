@@ -9876,11 +9876,6 @@
     "emojis-list" "^3.0.0"
     "json5" "^2.1.2"
 
-"loadjs@^4.2.0":
-  "integrity" "sha512-AgQGZisAlTPbTEzrHPb6q+NYBMD+DP9uvGSIjSUM5uG+0jG15cb8axWpxuOIqrmQjn6scaaH8JwloiP27b2KXA=="
-  "resolved" "https://registry.npmjs.org/loadjs/-/loadjs-4.2.0.tgz"
-  "version" "4.2.0"
-
 "localforage@^1.7.3":
   "integrity" "sha512-rR1oyNrKulpe+VM9cYmcFn6tsHuokyVHFaCM3+osEmxaHTbEk8oQu6eGDfS6DQLWi/N67XRmB8ECG37OES368g=="
   "resolved" "https://registry.npmjs.org/localforage/-/localforage-1.9.0.tgz"
@@ -13378,11 +13373,6 @@
   "resolved" "https://registry.npmjs.org/react-display-name/-/react-display-name-0.2.5.tgz"
   "version" "0.2.5"
 
-"react-disqus-comments@^1.4.0":
-  "integrity" "sha512-NkCNsnBSujliii5N2HbA6Wy5z2s6GtCtPaJ0D6GWNMSKnP8wmEtQ3u2qAeG9+xHJE2cMRFmfqMpDeJtBay38RA=="
-  "resolved" "https://registry.npmjs.org/react-disqus-comments/-/react-disqus-comments-1.4.0.tgz"
-  "version" "1.4.0"
-
 "react-dnd-html5-backend@^7.2.0":
   "integrity" "sha512-JgKmWOxqorFyfGPeWV+SAPhVGFe6+LrOR24jETE9rrYZU5hCppzwK9ujjS508kWibeDvbfEgi9j5qC2wB1/MoQ=="
   "resolved" "https://registry.npmjs.org/react-dnd-html5-backend/-/react-dnd-html5-backend-7.7.0.tgz"
@@ -13671,13 +13661,6 @@
     "loose-envify" "^1.4.0"
     "prop-types" "^15.6.2"
     "react-lifecycles-compat" "^3.0.4"
-
-"react-twitter-widgets@^1.9.5":
-  "integrity" "sha512-C12GZzY0i7HsaQHOvfVswAJ0fj94VnC7freDK3Zb72tGEnLDwWDKApZ0yKoO4ywNqa/fcDNCU7JN9FUbQLO5VA=="
-  "resolved" "https://registry.npmjs.org/react-twitter-widgets/-/react-twitter-widgets-1.9.5.tgz"
-  "version" "1.9.5"
-  dependencies:
-    "loadjs" "^4.2.0"
 
 "react-virtualized-auto-sizer@^1.0.2":
   "integrity" "sha512-kivjYVWX15TX2IUrm8F1jaCEX8EXrpy3DD+u41WGqJ1ZqbljWpiwscV+VxOM1l7sSIM1jwi2LADjhhAJkJ9dxA=="
