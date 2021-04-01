@@ -29,7 +29,6 @@ export default function PostTemplate({ data, pageContext }) {
           <div className="post-meta">
             <PostTags tags={post.tags} />
           </div>
-          <Footer config={config} />
         </div>
       </div>
     </Layout>
